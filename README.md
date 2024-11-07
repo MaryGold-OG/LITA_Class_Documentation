@@ -28,10 +28,14 @@ In the initial phase of the Data cleaning and preparations, I perform the follow
 6. Calculated Average Age using measure, providing insights into the age profile of the workforce.
 
 ### Visuals
-
+---
 - Q&A Visuals: I used Power BI’s Q&A feature to generate visuals for the Total Number of Current Employees and the Total Number of Employees. These visuals were created interactively to quickly answer relevant HR questions.
-- Bar chart, Donut chat, and pie chart were to generate visuals for attrition by department, age band, Educational field, and Gender.
-- Stacked column Chart was used to visualize the Attrition Count by Department and Age band 
+- Bar chart, Donut chat, and pie chart were to generate visuals for attrition by department, age band, Educational field, and Gender, which help reveal high turnover in each groups respectively.
+- Stacked column Chart was used to visualize the Attrition Count by Department and Age band, which helps to identify the age group in each department with the highest turnover.
+- Metrix was used to visualize the Job Satisfaction per Educational Field and Job role, to help reveal the job roles and Educational field that were satisfied and disatisfied with their work respectively.
+- Table was used to visualize Current Employee by Marital Satatus and Gender.
+
+
 
 
 
