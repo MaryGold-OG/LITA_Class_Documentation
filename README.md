@@ -35,8 +35,12 @@ In the initial phase of the Data cleaning and preparations, I perform the follow
 - Metrix was used to visualize the Job Satisfaction per Educational Field and Job role, to help reveal the job roles and Educational field that were satisfied and disatisfied with their work respectively.
 - Table was used to visualize Current Employee by Marital Satatus and Gender.
 
+Power BI Visualization
+---
 
+![HR Data Dashboard 1](https://github.com/user-attachments/assets/ee45660f-03a6-49cf-bfb9-53d83045a206)
 
+![HR Data Dashboard 2](https://github.com/user-attachments/assets/b54cb553-a65a-4796-bf89-123d4caa9ba6)
 
 
 
