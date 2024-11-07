@@ -23,5 +23,16 @@ In the initial phase of the Data cleaning and preparations, I perform the follow
 1. Data loading and Inspection
 2. Handling missing variables
 3. Data Cleaning and formating
+4. Attrition Count measure: It calculates the total number of employees who left the company.
+5. Describe the Attrition Rate measure: By dividing the attrition count by the total employee count to show the percentage of employees that left
+6. Calculated Average Age using measure, providing insights into the age profile of the workforce.
+
+### Visuals
+
+- Q&A Visuals: I used Power BI’s Q&A feature to generate visuals for the Total Number of Current Employees and the Total Number of Employees. These visuals were created interactively to quickly answer relevant HR questions.
+- Bar chart, Donut chat, and pie chart were to generate visuals for attrition by department, age band, Educational field, and Gender.
+- Stacked column Chart was used to visualize the Attrition Count by Department and Age band 
+
+
 
 
